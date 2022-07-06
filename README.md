@@ -1,5 +1,7 @@
 # grid-franq
 
+This repository contains the result of ideas from myself and my team on how to develop a new component for Franq Open Banking.
+
 ## Project setup
 ```
 npm install
